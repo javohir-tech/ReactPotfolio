@@ -1,0 +1,11 @@
+.side-bar-text{
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: rgba(137, 137, 137, 1);
+}
+
+.modal-block{
+    height: 100vh;
+    overflow-y: scroll; 
+}

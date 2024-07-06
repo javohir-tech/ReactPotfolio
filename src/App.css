@@ -1,0 +1,35 @@
+body{
+  margin: 0;
+}
+
+.my-container{
+  max-width: 1470px;
+  margin: 0 auto;
+}
+
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.modalBtn, .modalOpenBtn{
+  border: none;
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  padding: 10px 15px;
+}
+
+.modalOpenBtn{
+  margin-left: auto;
+}
+
+.modalBody{
+  padding: 15px 30px;
+  border-radius: 10px;
+  width: 400px;
+  height:200px;
+  z-index: 1;
+}

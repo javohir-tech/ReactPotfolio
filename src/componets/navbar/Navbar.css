@@ -1,0 +1,27 @@
+.navbar-input{
+    opacity: 30%;
+    background: rgba(235, 235, 235, 1);
+    padding: 5px 9px;
+}
+
+.input-box{
+    width: 830px;
+    height: 44px;
+}
+
+.input-box-absolute{
+    width: 800px;
+    top: 6px;
+}
+
+.searchImg{
+    width: 18px;
+    height: 18px;
+}
+
+.input-text{
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    color: rgba(48, 56, 76, 1);
+}
